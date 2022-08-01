@@ -1,5 +1,5 @@
 {
-  "name": "kitty-ui",
+  "name": "jxlust-ui",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -10,10 +10,10 @@
     "lib"
   ],
   "keywords": [
-    "kitty-ui",
+    "jxlust-ui",
     "vue3组件库"
   ],
-  "author": "小月",
+  "author": "jxlust",
   "license": "MIT",
   "description": "",
   "typings": "lib/index.d.ts"

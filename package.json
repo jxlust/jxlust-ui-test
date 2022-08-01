@@ -1,5 +1,5 @@
 {
-  "name": "kittyui",
+  "name": "jxlust-ui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "build:kitty": "gulp -f packages/components/script/build/gulpfile.ts",
-    "publish:kitty": "gulp -f packages/components/script/publish/gulpfile.ts"
+    "build": "gulp -f packages/components/script/build/gulpfile.ts",
+    "publish": "gulp -f packages/components/script/publish/gulpfile.ts"
   },
   "devDependencies": {
     "@types/gulp": "^4.0.9",
